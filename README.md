@@ -1,2 +1,2 @@
 # internettechnologie
-Dit is de private repository "Internettechnologie" van Arbaros.
+Dit is de Vives repository "Internettechnologie" van Arbaros.
